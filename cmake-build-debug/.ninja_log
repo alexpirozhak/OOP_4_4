@@ -1,0 +1,13 @@
+# ninja log v5
+2	2394	1716531017290573495	CMakeFiles/OOP_4_4.dir/Rectangle.cpp.o	8f3b4bacd2f9807f
+1	2448	1716531017342561736	CMakeFiles/OOP_4_4.dir/Circle.cpp.o	6c79c00ca1b8daeb
+1	2470	1716531017347047050	CMakeFiles/OOP_4_4.dir/main.cpp.o	fdccdda6b80a9bd
+3433	3588	1716531018493596043	OOP_4_4	8568a8d1371aa2be
+2399	3432	1716531018335075726	CMakeFiles/OOP_4_4.dir/Trapezium.cpp.o	e96367c80f73c7e8
+1	2323	1716531430461855046	Google_test/CMakeFiles/Google_Tests_run.dir/__/Rectangle.cpp.o	dea7f42741820438
+0	3091	1716531431224679588	Google_test/CMakeFiles/Google_Tests_run.dir/test.cpp.o	b1926373ab9488d6
+2324	3909	1716531432051881209	Google_test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	169369deff7daaaa
+1	6095	1716531434226993899	Google_test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4af090a1ea941307
+6096	6214	1716531434367088000	lib/libgtest.a	9dce67e66cb18433
+6214	6272	1716531434425885000	lib/libgtest_main.a	f284a0f3db5306ab
+6272	6408	1716531434552520615	Google_test/Google_Tests_run	7adb5078af052228
